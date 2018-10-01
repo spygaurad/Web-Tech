@@ -1,0 +1,46 @@
+#wrapper {
+
+    border: 1px solid #F00;
+    width: 980px;
+    margin: 0px auto;
+}
+#header{
+    margin: 10px;
+    border: 1px solid #F00;
+    height: 100px;
+}
+
+#content{
+    margin: 20px 10px;
+    border: 1px solid #F00;
+    height: 350px;
+}
+
+#content2{
+    margin: 20px 10px;
+    border: 1px solid #F00;
+    height: 350px;
+    padding: 10px;
+}
+
+#footer{
+    margin: 10px;
+    border: 1px solid #F00;
+    height: 100px;
+}
+
+#left{
+    width: 460px;
+
+    border: 1px solid #F00;
+    height: 350px;
+    float: left;
+}
+
+#right{
+    width: 460px;
+
+    border: 1px solid #F00;
+    height: 350px;
+    float: right;
+}
